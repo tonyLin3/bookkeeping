@@ -2,23 +2,7 @@ module.exports = {
   htmlArr: [
     {
       page: 'index',
-      title: 'Wows-Stats'
-    },
-    {
-      page: 'test',
-      title: 'Test',
-    },
-    {
-      page: 'blackjack',
-      title: 'BlackJack',
-    },
-    {
-      page: 'myaccount',
-      title: 'My Account',
-    },
-    {
-      page: 'rank',
-      title: 'Rank',
+      title: 'Bookkeeping'
     }
   ],
   cssPublicPath: '',
